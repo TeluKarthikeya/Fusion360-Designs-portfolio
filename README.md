@@ -26,4 +26,7 @@ sheet_drawing_-  https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/b
    sheet_drawing_---https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/Rivets_Sheet_drawing-Double%20riveted%2C%20double%20strap%20chain%20butt%20joint.pdf
 16)RIVETS_TYPES OF RIVET HEADS----model link ----https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/RIVETS_TYPES%20OF%20RIVET%20HEADS.f3d
    sheet_drawing_----https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/RIVETS_SHEET_DRAWING_TYPES%20OF%20RIVET%20HEADS.pdf
-17)
+17)screw_jack---model link ---https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/Screw_Jack_Assembly.f3z
+  sheet drawing-=== componentslink _https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/Screw_Jack_components_Sheet_Drawing.pdf
+   sheet_drawing----assembly----https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/Screw_Jack_Assembly_Sheet_Drawing.pdf
+18)
