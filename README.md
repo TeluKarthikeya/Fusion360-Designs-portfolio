@@ -18,4 +18,6 @@ sheet_drawing_-  https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/b
    sheet_drawing_-https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/Sectional_Views_Sheet_Drawing_Sliding_Block.pdf
 12)double_riveted_chain_lap_joint-https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/Rivets_Double%20riveted%20chain%20lap%20joint.f3d
    sheet drawing-https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/Rivets_Sheet_Drawing_Double%20riveted%20chain%20lap%20joint.pdf
-13)
+13)Rivets-Double riveted zig-zag lap joint--model link ---https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/Rivets-Double%20riveted%20zig-zag%20lap%20joint.f3d
+   sheet_Drawing---https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/Rivets_Sheet_Drawing_Double%20riveted%20zig-zag%20lap%20joint.pdf
+14)
