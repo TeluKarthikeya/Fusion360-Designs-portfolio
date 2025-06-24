@@ -7,7 +7,7 @@ A collection of my Fusion 360 design projects showcasing CAD modeling and  assem
 4) lock_model-https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/Lock_Model.f3d
 5) pen_model-https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/Pen_Model.f3d
 6) orthographic_projections-https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/ORTHOGRAPHIC%20PROJECTIONS_SHEET_DRAWING_1.f3d
-   sheet_drawing_
+   sheet_drawing_https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/ORTHOGRAPHIC%20PROJECTIONS_SHEET_DRAWING_1.f3d
 8) orthographic projections model-https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/ORTHOGRAPHIC%20PROJECTIONS_MODEL_2.f3d
    sheet drawing_https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/ORTHOGRAPHIC%20PROJECTIONS_SHEET_DRAWING_2.pdf
 
