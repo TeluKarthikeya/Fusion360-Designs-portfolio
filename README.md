@@ -24,4 +24,6 @@ sheet_drawing_-  https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/b
    sheet_drawing----https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/Rivets_Sheet_Drawing_Single%20riveted%2C%20single%20strap%20butt%20joint.pdf
 15)Rivets_Sheet_drawing-Double riveted, double strap chain butt joint----https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/Rivets_Model_Double%20riveted%2C%20double%20strap%20chain%20butt%20joint.f3d
    sheet_drawing_---https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/Rivets_Sheet_drawing-Double%20riveted%2C%20double%20strap%20chain%20butt%20joint.pdf
-16)
+16)RIVETS_TYPES OF RIVET HEADS----model link ----https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/RIVETS_TYPES%20OF%20RIVET%20HEADS.f3d
+   sheet_drawing_----https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/RIVETS_SHEET_DRAWING_TYPES%20OF%20RIVET%20HEADS.pdf
+17)
