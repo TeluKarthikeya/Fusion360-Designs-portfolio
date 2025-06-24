@@ -29,4 +29,6 @@ sheet_drawing_-  https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/b
 17)screw_jack---model link ---https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/Screw_Jack_Assembly.f3z
   sheet drawing-=== componentslink _https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/Screw_Jack_components_Sheet_Drawing.pdf
    sheet_drawing----assembly----https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/Screw_Jack_Assembly_Sheet_Drawing.pdf
-18)
+18)stufing_box---model link---https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/Stuffing_Box_Assembly.f3z
+   components_sheet_drawing---https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/Stuffing_Box_Components_Sheet_Drawing.pdf
+   assembly-shhet_drawing----https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/Stuffing_Box_Assembly_Sheet_Drawing.pdf
