@@ -16,3 +16,6 @@ sheet_drawing_-  https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/b
    sheet_Drawing-https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/Sectional_Views_Sheet_Drawing_Machine%20Block.pdf
 11)sectional _views_sliding_bloack-https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/Sectional_Views_Model_Sliding_Block.f3d
    sheet_drawing_-https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/Sectional_Views_Sheet_Drawing_Sliding_Block.pdf
+12)double_riveted_chain_lap_joint-https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/Rivets_Double%20riveted%20chain%20lap%20joint.f3d
+   sheet drawing-https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/Rivets_Sheet_Drawing_Double%20riveted%20chain%20lap%20joint.pdf
+13)
