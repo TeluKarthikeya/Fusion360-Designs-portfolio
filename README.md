@@ -12,6 +12,7 @@ A collection of my Fusion 360 design projects showcasing CAD modeling and  assem
    sheet drawing_https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/ORTHOGRAPHIC%20PROJECTIONS_SHEET_DRAWING_2.pdf
 9)orthographic projections_https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/ORTHOGRAPHIC%20PROJECTIONS_MODEL_3.f3d
 sheet_drawing_-  https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/ORTHOGRAPHIC%20PROJECTIONS_SHEET_DRAWING_3.pdf
-10)sectional_views-model-https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/Sectional_Views_Model_Machine%20Block.f3d
+10)sectional_views_machine_block-model-https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/Sectional_Views_Model_Machine%20Block.f3d
    sheet_Drawing-https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/Sectional_Views_Sheet_Drawing_Machine%20Block.pdf
-11)
+11)sectional _views_sliding_bloack-https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/Sectional_Views_Model_Sliding_Block.f3d
+   sheet_drawing_-https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/Sectional_Views_Sheet_Drawing_Sliding_Block.pdf
