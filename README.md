@@ -10,4 +10,5 @@ A collection of my Fusion 360 design projects showcasing CAD modeling and  assem
    sheet_drawing_https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/ORTHOGRAPHIC%20PROJECTIONS_SHEET_DRAWING_1.f3d
 8) orthographic projections model-https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/ORTHOGRAPHIC%20PROJECTIONS_MODEL_2.f3d
    sheet drawing_https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/ORTHOGRAPHIC%20PROJECTIONS_SHEET_DRAWING_2.pdf
-
+9)orthographic projections_https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/ORTHOGRAPHIC%20PROJECTIONS_MODEL_3.f3d
+sheet_drawing_-  https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/ORTHOGRAPHIC%20PROJECTIONS_SHEET_DRAWING_3.pdf
