@@ -20,4 +20,6 @@ sheet_drawing_-  https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/b
    sheet drawing-https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/Rivets_Sheet_Drawing_Double%20riveted%20chain%20lap%20joint.pdf
 13)Rivets-Double riveted zig-zag lap joint--model link ---https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/Rivets-Double%20riveted%20zig-zag%20lap%20joint.f3d
    sheet_Drawing---https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/Rivets_Sheet_Drawing_Double%20riveted%20zig-zag%20lap%20joint.pdf
-14)
+14)Rivets_Single riveted, single strap butt joint_Model___model_https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/Rivets_Single%20riveted%2C%20single%20strap%20butt%20joint_Model.f3d
+   sheet_drawing----https://github.com/TeluKarthikeya/Fusion360-Designs-portfolio/blob/main/Rivets_Sheet_Drawing_Single%20riveted%2C%20single%20strap%20butt%20joint.pdf
+15)
